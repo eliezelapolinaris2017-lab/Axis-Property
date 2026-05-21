@@ -1,12 +1,13 @@
-# AXIS Property Solutions Landing Page
+# AXIS Property Solutions — Premium Landing Page
 
-Landing page lista para GitHub Pages.
+Archivos listos para GitHub Pages.
 
-## Archivos
-- index.html
-- styles.css
-- app.js
-- assets/axis-logo.png
+## Contenido
+- `index.html`
+- `styles.css`
+- `app.js`
+- `assets/axis-logo.png`
 
-## Publicar
-Sube estos archivos a la raíz del repositorio y activa GitHub Pages en Settings > Pages.
+## Publicación
+Sube los archivos a la raíz del repositorio y activa GitHub Pages en:
+Settings → Pages → Deploy from branch → main → root.
